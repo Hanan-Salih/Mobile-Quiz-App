@@ -1,5 +1,6 @@
 # Mobile-Quiz-App
-Mobile Quiz App \n
+Mobile Quiz App
+
 Using Dart & Flutter
 
 created by: 
